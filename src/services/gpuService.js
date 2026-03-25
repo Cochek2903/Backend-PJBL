@@ -36,10 +36,10 @@ exports.delete = async (id) => {
   const existing = await gpuModel.findById(id);
 
   if (!existing) {
-    return false; // 🔥 importante
+    return false;
   }
 
   await gpuModel.delete(id);
 
-  return true; // 🔥 importante
+  return true;
 };
