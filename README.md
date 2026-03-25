@@ -28,6 +28,7 @@ Este backend foi desenvolvido utilizando **Node.js** e tem como principal funç�
 
 ## Estrutura do Projeto
 
+```
 backend/
 │
 ├── node_modules/
@@ -50,6 +51,7 @@ backend/
 ├── package.json
 ├── README.md
 └── server.js
+```
 
 ---
 
