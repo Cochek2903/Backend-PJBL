@@ -117,7 +117,7 @@ USE gpu_manager;
 ### 5. Inicie o servidor
 
 ```
-node server.js
+npm run dev
 ```
 
 ---
